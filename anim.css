@@ -1,0 +1,21 @@
+@keyframes danca {
+    from {margin: 28% auto;}
+    to {margin: 26% auto}
+}
+@keyframes danca2 {
+    from {margin: 3% auto;}
+    to {margin: 5% auto}
+}
+table{
+    border: 1px solid #000000;
+    background-color: #292860e3;
+    border-radius: 20px;
+    padding: 20px 10px 20px 10px;
+    width: 100%;
+}
+tr, td{
+    background-color: #5c79ad8f;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin: 5px;
+}
